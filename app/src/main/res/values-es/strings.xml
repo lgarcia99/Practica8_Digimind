@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mi Digimind</string>
+    <string name="title_board">Mi Muro</string>
+    <string name="title_reminder">Nuevo Recordatorio</string>
+    <string name="title_notifications">Notifiaciones</string>
+</resources>
